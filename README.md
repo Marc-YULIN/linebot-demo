@@ -16,7 +16,9 @@ ASP.NET Core (.NET 10) LINE Messaging API bot demo: webhook signature verificati
 
 ## 操作畫面
 
-<!-- GIF：docs/images/linebot-demo.gif（在 LINE 上問「幾點開門」、點快速回覆按鈕） -->
+<img src="docs/images/linebot-demo.gif" alt="在 LINE 上詢問營業時間、點快速回覆按鈕、問寵物規定與答不出來時的回覆" width="360">
+
+實際在 LINE 上對話的錄影。
 
 | 使用者輸入 | 機器人回覆 |
 |---|---|
