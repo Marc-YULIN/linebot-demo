@@ -1,6 +1,6 @@
 # linebot-demo：LINE 官方帳號自動回覆機器人
 
-![.NET 10](https://img.shields.io/badge/.NET-10-512BD4) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![CI](https://github.com/Marc-YULIN/linebot-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/Marc-YULIN/linebot-demo/actions/workflows/ci.yml) ![.NET 10](https://img.shields.io/badge/.NET-10-512BD4) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 ASP.NET Core (.NET 10) LINE Messaging API bot demo: webhook signature verification, keyword and FAQ replies, quick-reply buttons.
 
